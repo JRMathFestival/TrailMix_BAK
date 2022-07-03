@@ -1,10 +1,10 @@
 {
 "companyName": "DefaultCompany",
-"productName": "TrailMix",
+"productName": "Trail Mix",
 "productVersion": "0.1",
-"dataUrl": "TrailMixV08.data.unityweb",
-"wasmCodeUrl": "TrailMixV08.wasm.code.unityweb",
-"wasmFrameworkUrl": "TrailMixV08.wasm.framework.unityweb",
+"dataUrl": "DKV3.data.unityweb",
+"wasmCodeUrl": "DKV3.wasm.code.unityweb",
+"wasmFrameworkUrl": "DKV3.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.4.15f1"
+"unityVersion": "2019.3.14f1"
 }
